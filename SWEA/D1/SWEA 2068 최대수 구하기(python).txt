@@ -1,0 +1,8 @@
+SWEA 2068: 최대수 구하기
+
+t = int(input())
+
+for i in range (1, t+1):
+    n = list(map(int, input().split()))
+    print(f"#{i} {max(n)}")
+
