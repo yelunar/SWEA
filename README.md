@@ -1,2 +1,5 @@
-# SWEA
-SWEA SOLVING
+# 💥SWEA 문제풀이💥
+
+목표 : 삼성 소프트웨어 역량 테스트 A형
+명확하고 모호하지 않고 이해하기 쉬운 알고리즘을 짜자
+ git commit -m "SWEA: 문제번호"
