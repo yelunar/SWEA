@@ -1,5 +1,6 @@
-SWEA 2058: 자릿수 더하기(python)
+###SWEA 2058: 자릿수 더하기(python)
 
+```
 n = input()
 n_list = list(map(int,str(n))) // 자리수 분리 list(map(int,str(n))) 을 사용
 
@@ -9,3 +10,4 @@ sum = 0
 for i in n_list:
     sum += i
 print(sum)
+```
